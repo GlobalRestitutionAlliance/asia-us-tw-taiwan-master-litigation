@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: taiwanan-restitution-roadmap-and-qsf-trust-execution
-  name: Taiwanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/taiwanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_tw_001
+    name: Taiwan Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_002
+    name: Taiwan Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_003
+    name: Taiwan Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_004
+    name: Taiwan Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_005
+    name: Taiwan Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_006
+    name: Taiwan Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_007
+    name: Taiwan Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_008
+    name: Taiwan Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_009
+    name: Taiwan Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_010
+    name: Taiwan Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_011
+    name: Taiwan Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_012
+    name: Taiwan Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_013
+    name: Taiwan Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_014
+    name: Taiwan Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_015
+    name: Taiwan Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_016
+    name: Taiwan Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_017
+    name: Taiwan Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_018
+    name: Taiwan Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_019
+    name: Taiwan Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_020
+    name: Taiwan Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_021
+    name: Taiwan Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_022
+    name: Taiwan Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_023
+    name: Taiwan Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_024
+    name: Taiwan Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_025
+    name: Taiwan Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_026
+    name: Taiwan Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_027
+    name: Taiwan Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_028
+    name: Taiwan Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_029
+    name: Taiwan Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_030
+    name: Taiwan Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_031
+    name: Taiwan Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_032
+    name: Taiwan Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_033
+    name: Taiwan Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_034
+    name: Taiwan Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_035
+    name: Taiwan Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_036
+    name: Taiwan Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_037
+    name: Taiwan Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_038
+    name: Taiwan Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_039
+    name: Taiwan Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_040
+    name: Taiwan Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_041
+    name: Taiwan Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_042
+    name: Taiwan Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_043
+    name: Taiwan Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_044
+    name: Taiwan Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_045
+    name: Taiwan Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_046
+    name: Taiwan Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_047
+    name: Taiwan Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_048
+    name: Taiwan Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_049
+    name: Taiwan Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_050
+    name: Taiwan Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_051
+    name: Taiwan Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_052
+    name: Taiwan Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_053
+    name: Taiwan Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_054
+    name: Taiwan Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_055
+    name: Taiwan Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_056
+    name: Taiwan Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_057
+    name: Taiwan Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_058
+    name: Taiwan Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_059
+    name: Taiwan Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_060
+    name: Taiwan Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_061
+    name: Taiwan Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_062
+    name: Taiwan Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_063
+    name: Taiwan Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_064
+    name: Taiwan Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_065
+    name: Taiwan Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_066
+    name: Taiwan Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_067
+    name: Taiwan Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_068
+    name: Taiwan Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_069
+    name: Taiwan Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_070
+    name: Taiwan Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_071
+    name: Taiwan Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_072
+    name: Taiwan Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_073
+    name: Taiwan Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_074
+    name: Taiwan Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_075
+    name: Taiwan Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_076
+    name: Taiwan Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_077
+    name: Taiwan Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_078
+    name: Taiwan Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_079
+    name: Taiwan Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_080
+    name: Taiwan Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_081
+    name: Taiwan Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_082
+    name: Taiwan Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_083
+    name: Taiwan Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_084
+    name: Taiwan Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_085
+    name: Taiwan Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_086
+    name: Taiwan Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_087
+    name: Taiwan Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_088
+    name: Taiwan Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_089
+    name: Taiwan Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_090
+    name: Taiwan Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_091
+    name: Taiwan Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_092
+    name: Taiwan Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_093
+    name: Taiwan Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_094
+    name: Taiwan Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_095
+    name: Taiwan Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_096
+    name: Taiwan Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_097
+    name: Taiwan Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_098
+    name: Taiwan Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_099
+    name: Taiwan Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_100
+    name: Taiwan Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_101
+    name: Taiwan Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_102
+    name: Taiwan Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_103
+    name: Taiwan Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_104
+    name: Taiwan Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_105
+    name: Taiwan Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_106
+    name: Taiwan Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_107
+    name: Taiwan Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_108
+    name: Taiwan Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_109
+    name: Taiwan Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_110
+    name: Taiwan Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_111
+    name: Taiwan Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_112
+    name: Taiwan Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_113
+    name: Taiwan Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_114
+    name: Taiwan Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_115
+    name: Taiwan Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_116
+    name: Taiwan Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_117
+    name: Taiwan Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_118
+    name: Taiwan Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_119
+    name: Taiwan Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_120
+    name: Taiwan Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_121
+    name: Taiwan Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_122
+    name: Taiwan Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_123
+    name: Taiwan Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_124
+    name: Taiwan Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_125
+    name: Taiwan Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_126
+    name: Taiwan Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_127
+    name: Taiwan Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_128
+    name: Taiwan Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_129
+    name: Taiwan Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_130
+    name: Taiwan Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_131
+    name: Taiwan Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_132
+    name: Taiwan Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_133
+    name: Taiwan Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_134
+    name: Taiwan Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_135
+    name: Taiwan Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_136
+    name: Taiwan Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_137
+    name: Taiwan Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_138
+    name: Taiwan Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_139
+    name: Taiwan Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_140
+    name: Taiwan Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_141
+    name: Taiwan Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_142
+    name: Taiwan Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_143
+    name: Taiwan Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_144
+    name: Taiwan Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_145
+    name: Taiwan Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_146
+    name: Taiwan Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_147
+    name: Taiwan Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_148
+    name: Taiwan Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_149
+    name: Taiwan Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_150
+    name: Taiwan Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_151
+    name: Taiwan Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_152
+    name: Taiwan Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_153
+    name: Taiwan Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_154
+    name: Taiwan Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_155
+    name: Taiwan Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_156
+    name: Taiwan Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_157
+    name: Taiwan Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_158
+    name: Taiwan Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_159
+    name: Taiwan Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_160
+    name: Taiwan Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_161
+    name: Taiwan Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_162
+    name: Taiwan Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_163
+    name: Taiwan Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_164
+    name: Taiwan Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_165
+    name: Taiwan Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_166
+    name: Taiwan Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_167
+    name: Taiwan Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_168
+    name: Taiwan Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_169
+    name: Taiwan Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_170
+    name: Taiwan Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_171
+    name: Taiwan Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_172
+    name: Taiwan Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_173
+    name: Taiwan Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_174
+    name: Taiwan Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_175
+    name: Taiwan Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_176
+    name: Taiwan Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_177
+    name: Taiwan Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_178
+    name: Taiwan Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_179
+    name: Taiwan Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_180
+    name: Taiwan Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_181
+    name: Taiwan Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_182
+    name: Taiwan Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_183
+    name: Taiwan Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_184
+    name: Taiwan Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_185
+    name: Taiwan Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_186
+    name: Taiwan Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_187
+    name: Taiwan Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_188
+    name: Taiwan Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_189
+    name: Taiwan Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_190
+    name: Taiwan Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_191
+    name: Taiwan Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_192
+    name: Taiwan Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_193
+    name: Taiwan Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_194
+    name: Taiwan Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_195
+    name: Taiwan Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_196
+    name: Taiwan Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_197
+    name: Taiwan Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_198
+    name: Taiwan Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_199
+    name: Taiwan Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_200
+    name: Taiwan Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_201
+    name: Taiwan Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_202
+    name: Taiwan Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_203
+    name: Taiwan Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_204
+    name: Taiwan Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_205
+    name: Taiwan Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_206
+    name: Taiwan Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_207
+    name: Taiwan Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_208
+    name: Taiwan Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_209
+    name: Taiwan Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_210
+    name: Taiwan Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_211
+    name: Taiwan Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_212
+    name: Taiwan Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_213
+    name: Taiwan Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_214
+    name: Taiwan Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_215
+    name: Taiwan Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_216
+    name: Taiwan Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_217
+    name: Taiwan Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_218
+    name: Taiwan Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_219
+    name: Taiwan Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_220
+    name: Taiwan Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_221
+    name: Taiwan Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_222
+    name: Taiwan Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_223
+    name: Taiwan Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_224
+    name: Taiwan Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_225
+    name: Taiwan Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_226
+    name: Taiwan Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_227
+    name: Taiwan Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_228
+    name: Taiwan Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_229
+    name: Taiwan Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_230
+    name: Taiwan Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_231
+    name: Taiwan Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_232
+    name: Taiwan Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_233
+    name: Taiwan Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_234
+    name: Taiwan Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_235
+    name: Taiwan Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_236
+    name: Taiwan Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_237
+    name: Taiwan Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_238
+    name: Taiwan Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_239
+    name: Taiwan Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_240
+    name: Taiwan Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_241
+    name: Taiwan Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_242
+    name: Taiwan Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_243
+    name: Taiwan Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_244
+    name: Taiwan Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_245
+    name: Taiwan Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_246
+    name: Taiwan Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_247
+    name: Taiwan Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_248
+    name: Taiwan Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_249
+    name: Taiwan Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_250
+    name: Taiwan Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_251
+    name: Taiwan Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_tw_252
+    name: Taiwan Skill 252
+    status: ACTIVE_SCAFFOLD

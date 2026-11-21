@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-taiwan-canal-and-intervention-historian
-  name: Taiwan Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-taiwan-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_tw_001
+    name: Taiwan Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_002
+    name: Taiwan Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_003
+    name: Taiwan Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_004
+    name: Taiwan Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_005
+    name: Taiwan Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_006
+    name: Taiwan Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_007
+    name: Taiwan Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_008
+    name: Taiwan Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_009
+    name: Taiwan Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_010
+    name: Taiwan Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_011
+    name: Taiwan Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_012
+    name: Taiwan Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_013
+    name: Taiwan Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_014
+    name: Taiwan Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_015
+    name: Taiwan Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_016
+    name: Taiwan Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_017
+    name: Taiwan Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_018
+    name: Taiwan Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_019
+    name: Taiwan Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_020
+    name: Taiwan Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_021
+    name: Taiwan Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_022
+    name: Taiwan Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_023
+    name: Taiwan Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_024
+    name: Taiwan Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_025
+    name: Taiwan Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_026
+    name: Taiwan Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_027
+    name: Taiwan Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_028
+    name: Taiwan Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_029
+    name: Taiwan Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_030
+    name: Taiwan Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_031
+    name: Taiwan Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_032
+    name: Taiwan Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_033
+    name: Taiwan Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_034
+    name: Taiwan Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_035
+    name: Taiwan Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_036
+    name: Taiwan Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_037
+    name: Taiwan Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_038
+    name: Taiwan Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_039
+    name: Taiwan Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_040
+    name: Taiwan Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_041
+    name: Taiwan Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_042
+    name: Taiwan Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_043
+    name: Taiwan Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_044
+    name: Taiwan Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_045
+    name: Taiwan Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_046
+    name: Taiwan Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_047
+    name: Taiwan Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_048
+    name: Taiwan Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_049
+    name: Taiwan Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_050
+    name: Taiwan Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_051
+    name: Taiwan Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_052
+    name: Taiwan Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_053
+    name: Taiwan Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_054
+    name: Taiwan Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_055
+    name: Taiwan Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_056
+    name: Taiwan Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_057
+    name: Taiwan Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_058
+    name: Taiwan Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_059
+    name: Taiwan Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_060
+    name: Taiwan Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_061
+    name: Taiwan Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_062
+    name: Taiwan Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_063
+    name: Taiwan Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_064
+    name: Taiwan Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_065
+    name: Taiwan Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_066
+    name: Taiwan Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_067
+    name: Taiwan Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_068
+    name: Taiwan Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_069
+    name: Taiwan Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_070
+    name: Taiwan Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_071
+    name: Taiwan Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_072
+    name: Taiwan Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_073
+    name: Taiwan Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_074
+    name: Taiwan Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_075
+    name: Taiwan Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_076
+    name: Taiwan Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_077
+    name: Taiwan Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_078
+    name: Taiwan Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_079
+    name: Taiwan Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_080
+    name: Taiwan Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_081
+    name: Taiwan Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_082
+    name: Taiwan Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_083
+    name: Taiwan Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_084
+    name: Taiwan Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_085
+    name: Taiwan Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_086
+    name: Taiwan Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_087
+    name: Taiwan Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_088
+    name: Taiwan Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_089
+    name: Taiwan Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_090
+    name: Taiwan Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_091
+    name: Taiwan Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_092
+    name: Taiwan Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_093
+    name: Taiwan Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_094
+    name: Taiwan Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_095
+    name: Taiwan Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_096
+    name: Taiwan Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_097
+    name: Taiwan Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_098
+    name: Taiwan Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_099
+    name: Taiwan Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_100
+    name: Taiwan Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_101
+    name: Taiwan Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_102
+    name: Taiwan Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_103
+    name: Taiwan Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_104
+    name: Taiwan Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_105
+    name: Taiwan Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_106
+    name: Taiwan Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_107
+    name: Taiwan Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_108
+    name: Taiwan Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_109
+    name: Taiwan Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_110
+    name: Taiwan Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_111
+    name: Taiwan Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_112
+    name: Taiwan Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_113
+    name: Taiwan Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_114
+    name: Taiwan Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_115
+    name: Taiwan Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_116
+    name: Taiwan Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_117
+    name: Taiwan Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_118
+    name: Taiwan Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_119
+    name: Taiwan Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_120
+    name: Taiwan Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_121
+    name: Taiwan Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_122
+    name: Taiwan Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_123
+    name: Taiwan Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_124
+    name: Taiwan Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_125
+    name: Taiwan Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_126
+    name: Taiwan Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_127
+    name: Taiwan Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_128
+    name: Taiwan Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_129
+    name: Taiwan Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_130
+    name: Taiwan Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_131
+    name: Taiwan Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_132
+    name: Taiwan Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_133
+    name: Taiwan Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_134
+    name: Taiwan Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_135
+    name: Taiwan Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_136
+    name: Taiwan Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_137
+    name: Taiwan Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_138
+    name: Taiwan Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_139
+    name: Taiwan Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_140
+    name: Taiwan Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_141
+    name: Taiwan Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_142
+    name: Taiwan Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_143
+    name: Taiwan Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_144
+    name: Taiwan Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_145
+    name: Taiwan Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_146
+    name: Taiwan Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_147
+    name: Taiwan Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_148
+    name: Taiwan Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_149
+    name: Taiwan Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_150
+    name: Taiwan Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_151
+    name: Taiwan Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_152
+    name: Taiwan Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_153
+    name: Taiwan Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_154
+    name: Taiwan Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_155
+    name: Taiwan Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_156
+    name: Taiwan Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_157
+    name: Taiwan Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_158
+    name: Taiwan Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_159
+    name: Taiwan Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_160
+    name: Taiwan Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_161
+    name: Taiwan Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_162
+    name: Taiwan Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_163
+    name: Taiwan Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_164
+    name: Taiwan Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_165
+    name: Taiwan Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_166
+    name: Taiwan Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_167
+    name: Taiwan Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_168
+    name: Taiwan Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_169
+    name: Taiwan Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_tw_170
+    name: Taiwan Agent 170
+    status: ACTIVE_SCAFFOLD
