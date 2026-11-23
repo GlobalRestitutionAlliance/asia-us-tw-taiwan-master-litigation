@@ -1,0 +1,17 @@
+{
+  "url": "https://www.hrw.org/asia/taiwan",
+  "final_url": "https://www.hrw.org/asia/taiwan",
+  "title": "HRW - Taiwan",
+  "fetched_at": "2026-11-23T15:27:31.335099Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 171528,
+  "sha256": "947aa0ef368eafb1d43b0ab4ba1d1815c00a6ae0adfbfedefd9ccd104fe50cab",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
